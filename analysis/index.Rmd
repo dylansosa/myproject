@@ -10,5 +10,5 @@ editor_options:
 
 spinosaurus!
 
-![](../docs/assets/sa.png)
+![](assets/sa.png)
 * [Teeth growth analysis](teeth.html)
